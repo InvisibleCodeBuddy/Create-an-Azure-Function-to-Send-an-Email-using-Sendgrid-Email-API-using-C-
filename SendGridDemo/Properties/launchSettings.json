@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SendGridDemo": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7232 --cors http://localhost:7232 --verbose"
+    }
+  }
+}
